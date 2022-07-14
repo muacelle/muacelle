@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Marcelle Pernet :)
-- 👀 I’m interested in JS, Node, Python and SQL.
+- 👀 I’m interested in JS and SQL.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: mevpernet@gmail.com
