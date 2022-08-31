@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Marcelle Pernet :)
-- 👀 I’m interested in JS and SQL.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m studying to become a fullstack developer.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: mevpernet@gmail.com
