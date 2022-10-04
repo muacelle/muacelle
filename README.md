@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Marcelle Pernet :)
 - 👀 I’m studying to become a fullstack developer.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and TypeScript.
 - 📫 How to reach me: mevpernet@gmail.com
