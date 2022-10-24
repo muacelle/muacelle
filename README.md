@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/marcelle-pernet/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mevpernet@gmail.com">
+  <a href="mailto:mevpernet@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
