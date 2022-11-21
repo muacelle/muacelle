@@ -8,7 +8,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muacelle&show_icons=true&theme=radical" />
   <br/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muacelle&layout=compact&hide=procfile&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muacelle&layout=compact&hide=procfile,shell&theme=radical" />
 </div>
 
 ## Stack
