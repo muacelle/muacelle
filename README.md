@@ -2,7 +2,7 @@
 - I'm **Marcelle** and I'm studying to become a **Full-Stack Developer**. 
 - I started to get interested in Tech when I worked at **Jusbrasil** in 2021.
 - Besides Programming, I have familiarity with Agile, Product Development, JIRA, Excel, SQL and Metabase.
-- I'm currently learning React Native.
+- I'm currently learning Java.
 
 ## Stats
 <div>
