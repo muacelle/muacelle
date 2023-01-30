@@ -20,6 +20,7 @@
 ## Stats
 
 [![Muacelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=muacelle&theme=radical)](https://github.com/muacelle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muacelle&theme=radical)](https://github.com/muacelle/github-readme-stats)
 
 ## Get in touch
 <div style="display: inlne_block">
