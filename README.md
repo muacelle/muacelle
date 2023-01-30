@@ -17,10 +17,8 @@
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-## Stats
+<br>
 
-[![Muacelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=muacelle&theme=radical)](https://github.com/muacelle/github-readme-stats)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muacelle&theme=radical&layout=compact)](https://github.com/muacelle/github-readme-stats)
 
 ## Get in touch
