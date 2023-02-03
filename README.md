@@ -21,7 +21,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muacelle&theme=radical&layout=compact)](https://github.com/muacelle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muacelle&theme=radical&layout=compact&langs_count=6)](https://github.com/muacelle/github-readme-stats)
 
 ## Get in touch
 <div style="display: inlne_block">
