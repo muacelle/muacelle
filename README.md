@@ -1,8 +1,7 @@
 # Hi! :)
-- I'm **Marcelle** and I'm studying to become a **Full-Stack Developer**. 
+- I'm **Marcelle** and I'm a **Full-Stack Developer**. 
 - I started to get interested in Tech when I worked at **Jusbrasil** in 2021.
-- Besides Programming, I have familiarity with Agile, Product Development, JIRA, Excel, SQL and Metabase.
-- I'm currently learning Java.
+- Besides Programming, I have experience with Agile, Product Development, JIRA, Excel, SQL and Metabase.
 
 ## Stack
 <div style="display: inline_block">
@@ -17,7 +16,6 @@
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
 </div>
 
 <br>
