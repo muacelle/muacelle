@@ -1,7 +1,8 @@
 # Hi! :)
-- I'm **Marcelle** and I'm a **Full-Stack Developer**. 
+- I'm **Marcelle**.
+- I'm a **Full-Stack Developer** and a **Lawyer**.
 - I started to get interested in Tech when I worked at **Jusbrasil** in 2021.
-- Besides Programming, I have experience with Agile, Product Development, JIRA, Excel, SQL and Metabase.
+- Besides Programming, I have experience with Agile, Product Development, SQL and Metabase.
 
 ## Stack
 <div style="display: inline_block">
